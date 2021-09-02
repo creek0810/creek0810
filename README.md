@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 23 Contributions in the Year 2021
+> 🏆 24 Contributions in the Year 2021
  > 
 > 📦 396.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
