@@ -1,102 +1,57 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Shin Yu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+
 
 <!--
-**creek0810/creek0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Years Badge](https://badges.pufler.dev/years/creek0810)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/creek0810)](https://badges.pufler.dev)-->
+<img align="right" width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creek0810&layout=compact">
 
-Here are some ideas to get you started:
+I'm a passionate backend developer from Taiwan.
+- 📚 I'm currently learning **rust**.
+- 🔨 I'm currently working on a **toy OS**.
+- 🖥️ I'm obsessed with building **system software** and **IOT**.
+- 💭 My dream is to build a simple computer from designing cpu to os by myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+## Framework & Libraries
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-**🐱 My Github Data** 
+## Editor
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-> 🏆 27 Contributions in the Year 2021
- > 
-> 📦 396.8 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+## Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-```text
-🌞 Morning    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-🌆 Daytime    13 commits     ███████░░░░░░░░░░░░░░░░░░   29.55% 
-🌃 Evening    21 commits     ████████████░░░░░░░░░░░░░   47.73% 
-🌙 Night      4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+## IOT
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Tuesday      8 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Wednesday    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Friday       9 commits      █████░░░░░░░░░░░░░░░░░░░░   20.45% 
-Saturday     6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.36%
-
-```
+## CI & CD
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Rust                     2 hrs 58 mins       ████████████░░░░░░░░░░░░░   50.73% 
-Markdown                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   30.71% 
-Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
-
-🔥 Editors: 
-VS Code                  5 hrs 51 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-rust-cheatsheet          1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   30.71% 
-guessing_game            1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   26.5% 
-rectangle                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
-v4-backend               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-tst                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
-
-💻 Operating System: 
-Linux                    5 hrs 14 mins       ██████████████████████░░░   89.52% 
-Mac                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.48%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-Makefile                 8 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
-
-```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/creek0810/creek0810/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2021
-<!--END_SECTION:waka-->
+
+
+
+
